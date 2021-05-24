@@ -25,13 +25,16 @@ body {
 }
 
 /*about us, contact us*/
+
 /* .about-contact {
-    background-color: #E4748C;
+    background-color: #E49CAC;
 } */
 
 .about, .contact{
     color: white;
 }
+
+/*footer*/
 
 footer {
     background-color: #E4748C;
