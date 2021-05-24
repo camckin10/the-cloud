@@ -6,6 +6,10 @@ body {
 /*homepage*/
 
 /*navigation menu*/
+.nav-menu {
+    background-color: #E4748C;
+}
+
 .home-nav {
     list-style:none;
     /* float:left; */
@@ -21,6 +25,14 @@ body {
 }
 
 /*about us, contact us*/
+/* .about-contact {
+    background-color: #E4748C;
+} */
+
 .about, .contact{
     color: white;
+}
+
+footer {
+    background-color: #E4748C;
 }
